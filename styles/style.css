@@ -1,0 +1,12 @@
+fieldset {
+    padding: 20px;
+    width: 60%;
+    margin: 10px auto;
+}
+
+fieldset input, button {
+    padding: 10px;
+}
+#inputs {
+    height: 50px;
+}
